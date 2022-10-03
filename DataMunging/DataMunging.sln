@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataMunging", "DataMunging\DataMunging.csproj", "{18DD104D-9AFE-41B3-8357-21EC8F398A55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18DD104D-9AFE-41B3-8357-21EC8F398A55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18DD104D-9AFE-41B3-8357-21EC8F398A55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18DD104D-9AFE-41B3-8357-21EC8F398A55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18DD104D-9AFE-41B3-8357-21EC8F398A55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36F57B33-B88A-42EA-838D-424EE78C2739}
+	EndGlobalSection
+EndGlobal

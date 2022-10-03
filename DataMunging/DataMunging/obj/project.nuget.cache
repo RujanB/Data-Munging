@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Aa/FAegY6hRO/5ua2+crFgdr9Ky0gBAYCcDfPi/8wysCwqICO2ME1hqArFWn9dU7Cot31tPDyhmjcRWH9fshiw==",
+  "success": true,
+  "projectFilePath": "D:\\Giridhar\\Personal\\Interview test\\Rujan\\DataMunging\\DataMunging\\DataMunging.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AL3856\\.nuget\\packages\\exceldatareader\\3.6.0\\exceldatareader.3.6.0.nupkg.sha512",
+    "C:\\Users\\AL3856\\.nuget\\packages\\exceldatareader.dataset\\3.6.0\\exceldatareader.dataset.3.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
